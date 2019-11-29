@@ -1,0 +1,24 @@
+
+.content.data-v-41995af0{
+	color: #B8C6E0;
+	font-size: 32rpx;
+	overflow: hidden;
+}
+.test.data-v-41995af0{
+	margin: 30rpx 0;
+	padding: 0 20rpx;
+}
+.image.data-v-41995af0{
+	width: 100%;
+	text-align: center;
+}
+.image image.data-v-41995af0{
+	width: 90%;
+	margin-bottom: 30rpx;
+}
+button.data-v-41995af0{
+	margin: 20rpx 20rpx;
+	background: #4BD4FE;
+	color: #fff;
+}
+

@@ -1,0 +1,38 @@
+
+.plan_box.data-v-4cc9c79a {
+	color: #B8C6E0;
+	width: 100%;
+	padding: 10rpx 20rpx;
+	font-size: 32rpx;
+	height: 180rpx;
+	background: #3B4374;
+	position: relative;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	border-radius: 10rpx;
+	margin-bottom: 20rpx;
+}
+.plan_box .plan_test.data-v-4cc9c79a {
+	margin-bottom: 10rpx;
+}
+.plan_box .bottom.data-v-4cc9c79a {
+	width: 95%;
+	overflow: hidden;
+	position: absolute;
+	bottom: 20rpx;
+}
+.plan_box .bottom view.data-v-4cc9c79a {
+	background: #35bffd;
+	color: #fff;
+	text-align: center;
+	width: 150rpx;
+	border-radius: 10rpx;
+	padding: 10rpx 0;
+}
+.plan_box .bottom .left.data-v-4cc9c79a {
+	float: left;
+}
+.plan_box .bottom .right.data-v-4cc9c79a {
+	float: right;
+}
+

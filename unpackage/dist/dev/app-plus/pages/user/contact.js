@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content.",[1],"data-v-66c76c99{ padding: ",[0,30]," ",[0,30],"; overflow: hidden; color: #B8C6E0; text-align: center; font-size: ",[0,32],"; }\n",],undefined,{path:"./pages/user/contact.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/contact.wxml') } }));

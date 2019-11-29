@@ -1,0 +1,278 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				 "app-plus" : {
+				    "titleNView" : false
+				}
+			}
+		},
+		
+		{
+			"path": "pages/login/login",
+			 "style" : {
+			    "navigationBarTitleText" : "登录",
+			    "app-plus" : {
+			        "titleNView" : false
+			    }
+			}
+		},
+		
+		{
+			"path": "pages/reg/reg",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/reg/forget",
+			"style": {
+				"navigationBarTitleText": "忘记密码"
+			}
+		},
+		{
+			"path": "pages/reg/download",
+			"style": {
+				"navigationBarTitleText": "下载",
+				"app-plus" : {
+				    "titleNView" : false
+				}
+			}
+		},
+		{
+			"path": "pages/index/plan",
+			"style": {
+				"navigationBarTitleText": "计划"
+			}
+		},
+		{
+			"path": "pages/planpage/debt",
+			"style": {
+				"navigationBarTitleText": "添加债务"
+			}
+		},
+		{
+			"path": "pages/planpage/activation",
+			"style": {
+				"navigationBarTitleText": "收款人"
+			}
+		},
+		{
+			"path": "pages/planpage/payment",
+			"style": {
+				"navigationBarTitleText": "付款信息"
+			}
+		},
+		{
+			"path": "pages/planpage/record",
+			"style": {
+				"navigationBarTitleText": "还款历史记录"
+			}
+		},
+		
+		{
+			"path": "pages/planpage/details",
+			"style": {
+				"navigationBarTitleText": "还款者截图"
+			}
+		},
+		{
+			"path": "pages/planpage/appeal",
+			"style": {
+				"navigationBarTitleText": "申诉"
+			}
+		},
+		{
+			"path": "pages/index/wallet",
+			"style": {
+				"navigationBarTitleText": "钱包"
+			}
+		},
+		{
+			"path": "pages/walletpage/withdraw",
+			"style": {
+				"navigationBarTitleText": "提现"
+			}
+		},
+		{
+			"path": "pages/walletpage/detailed",
+			"style": {
+				"navigationBarTitleText": "明细"
+			}
+		},
+		{
+			"path": "pages/index/my",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/user/real",
+			"style": {
+				"navigationBarTitleText": "实名认证"
+			}
+		},
+		{
+			"path": "pages/user/upgrade",
+			"style": {
+				"navigationBarTitleText": "升级"
+			}
+		},
+		{
+			"path": "pages/user/receivables",
+			"style": {
+				"navigationBarTitleText": "收款方式"
+			}
+		},
+		{
+			"path": "pages/user/contact",
+			"style": {
+				"navigationBarTitleText": "联系我们"
+			}
+		},
+		{
+			"path": "pages/user/address",
+			"style": {
+				"navigationBarTitleText": "收货地址",
+				"app-plus" : {
+				    "titleNView" : {
+				        "buttons" : [
+				            {
+				                "text" : "添加新地址",
+				                "fontSize" : "14px",
+				                "color" : "#FFf"
+				            }
+				        ]
+				    }
+				}
+			}
+		},
+		
+		{
+			"path": "pages/user/addAddress",
+			"style": {
+				"navigationBarTitleText": "编辑收货地址"
+			}
+		},
+		{
+			"path": "pages/user/credit",
+			"style": {
+				"navigationBarTitleText": "信用卡"
+			}
+		},
+		{
+			"path": "pages/user/savings",
+			"style": {
+				"navigationBarTitleText": "储蓄卡"
+			}
+		},
+		{
+			"path": "pages/user/appealRecord",
+			"style": {
+				"navigationBarTitleText": "申诉记录"
+			}
+		},
+		{
+			"path": "pages/user/appealDetails",
+			"style": {
+				"navigationBarTitleText": "申诉详情"
+			}
+		},
+		{
+			"path": "pages/user/myfriend",
+			"style": {
+				"navigationBarTitleText": "我的好友",
+				"app-plus" : {
+				    "titleNView" : {
+				        "buttons" : [
+				            {
+				                "text" : "好友",
+				                "fontSize" : "14px",
+				                "color" : "#FFf"
+				            }
+				        ]
+				    }
+				}
+			}
+		},
+		{
+			"path": "pages/user/friendlist",
+			"style": {
+				"navigationBarTitleText": "好友列表",
+				"app-plus" : {
+				    "titleNView" : {
+				        "buttons" : [
+				            {
+				                "text" : "成员",
+				                "fontSize" : "14px",
+				                "color" : "#FFf"
+				            }
+				        ]
+				    }
+				}
+			}
+		},
+		{
+			"path": "pages/user/myteam",
+			"style": {
+				"navigationBarTitleText": "我的团队"
+			}
+		},
+		{
+			"path": "pages/indexpage/visit",
+			"style": {
+				"navigationBarTitleText": "文章详情"
+			}
+		},
+		{
+			"path": "pages/indexpage/getArticle",
+			"style": {
+				"navigationBarTitleText": "文章详情"
+			}
+		},
+		{
+			"path": "pages/indexpage/news",
+			"style": {
+				"navigationBarTitleText": "我的消息"
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#343C6D",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3EC7FD",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [{
+        "pagePath": "pages/index/index",
+        "iconPath": "static/image/index.png",
+        "selectedIconPath": "static/image/index_HL.png",
+        "text": "首页"
+    }, {
+        "pagePath": "pages/index/plan",
+        "iconPath": "static/image/plan.png",
+        "selectedIconPath": "static/image/plan_HL.png",
+        "text": "计划"
+    },
+	{
+	    "pagePath": "pages/index/wallet",
+	    "iconPath": "static/image/wallet.png",
+	    "selectedIconPath": "static/image/wallet_HL.png",
+	    "text": "钱包"
+	},
+	{
+	    "pagePath": "pages/index/my",
+	    "iconPath": "static/image/my.png",
+	    "selectedIconPath": "static/image/my_HL.png",
+	    "text": "我的"
+	}]
+}
+}

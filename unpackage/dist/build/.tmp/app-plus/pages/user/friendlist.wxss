@@ -1,0 +1,31 @@
+
+.content.data-v-78015ace{
+	color: #B8C6E0;
+	font-size: 32rpx;
+	overflow: hidden;
+}
+.friend_list.data-v-78015ace{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	margin: 20rpx 20rpx;
+	height: 90rpx;
+	font-size: 28rpx;
+	border-bottom: 1px solid #3B4372;
+}
+.friend_list image.data-v-78015ace{
+	height: 70rpx;
+	border-radius: 50%;
+	width: 70rpx;
+}
+.name.data-v-78015ace{
+	width: 240rpx;
+	word-wrap: break-word;
+	color: #fff;
+}
+

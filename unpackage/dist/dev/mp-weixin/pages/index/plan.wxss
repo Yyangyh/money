@@ -1,0 +1,113 @@
+
+.content.data-v-2083c70a{
+	color: #B8C6E0;
+	background: #2E3264;
+	overflow: hidden;
+	padding: 0 20rpx;
+	padding-bottom: 100rpx;
+}
+.plan view.data-v-2083c70a{
+	margin: 40rpx 10%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background: #2E3264;
+	color: #35BFFD;
+	/* padding: 2rpx; */
+	border: 2rpx solid #35BFFD;
+}
+.plan view text.data-v-2083c70a{
+	font-size: 36rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	    -ms-flex-positive: 1;
+	        flex-grow: 1;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+	display: inline-block;
+}
+.show.data-v-2083c70a{
+	color: #fff;
+	background: #35BFFD;
+	/* border: 2rpx solid #35BFFD; */
+}
+.loan.data-v-2083c70a{
+	/* overflow: hidden; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.loan view.data-v-2083c70a{
+	text-align: center;
+	width: 25%;
+	background: #3B4374;
+	border-radius: 10rpx;
+	height: 200rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	    -ms-flex-positive: 1;
+	        flex-grow: 1;
+	margin-right: 20rpx;
+	padding-top: 60rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.loan view.data-v-2083c70a:nth-of-type(4){
+	margin-right: 0rpx;
+}
+.loan view ._p.data-v-2083c70a{
+	height: 40rpx;
+	line-height: 40rpx;
+}
+.loan view ._p.data-v-2083c70a:nth-of-type(1){
+	font-size: 20rpx;
+}
+.loan view ._p.data-v-2083c70a:nth-of-type(2){
+	font-size: 30rpx;
+}
+.repayment.data-v-2083c70a{
+	margin-top: 40rpx;
+	overflow: hidden;
+	background: #3B4374;
+	padding: 0 15rpx;
+	border-radius: 10rpx;
+}
+.repayment text.data-v-2083c70a{
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.repayment text.data-v-2083c70a:nth-of-type(1){
+	float: left;
+}
+.repayment text.data-v-2083c70a:nth-of-type(2){
+	float: right;
+	color: #35BFFD;
+}
+.repayment text ._span.data-v-2083c70a{
+	color: #35BFFD;
+}
+.speed.data-v-2083c70a{
+	margin-top: 40rpx;
+}
+.repayment_plan.data-v-2083c70a{
+	margin-bottom: 30rpx;
+	font-size: 32rpx;
+}
+.repayment_speed.data-v-2083c70a{
+	margin-bottom: 30rpx;
+	font-size: 28rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.repayment_speed progress.data-v-2083c70a{
+	/* flex-grow: 2; */
+	width: 60%;
+	margin: 0 20rpx;
+}
+
+

@@ -1,0 +1,30 @@
+
+.content.data-v-0ef0e28a{
+	text-align: center;
+	color: #B8C6E0;
+}
+.title.data-v-0ef0e28a{
+	margin: 20rpx 0;
+	font-size: 36rpx;
+}
+image.data-v-0ef0e28a{
+	width: 90%;
+}
+.test.data-v-0ef0e28a{
+	text-align: left;
+	font-size: 28rpx;
+	margin: 0 15rpx;
+}
+.test.data-v-0ef0e28a ._img{
+	width: 100%;
+}
+.test.data-v-0ef0e28a ._p{
+	word-wrap: break-word !important;
+	word-break: normal !important;
+}
+.test.data-v-0ef0e28a ._span{
+	word-wrap: break-word !important;
+	word-break: normal !important;
+	white-space: pre-wrap !important;
+}
+

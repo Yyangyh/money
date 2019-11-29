@@ -1,0 +1,83 @@
+
+.content.data-v-47211af5 {
+	overflow: hidden;
+}
+.test.data-v-47211af5 {
+	padding: 0 20rpx;
+	margin: 40rpx 0;
+}
+.form_ipt.data-v-47211af5 {
+	margin-bottom: 20rpx;
+}
+.photo.data-v-47211af5 {
+	height: 400rpx;
+	overflow: hidden;
+	background: #525B8B;
+}
+.photo image.data-v-47211af5 {
+	height: 160rpx;
+	width: 100%;
+}
+.photo_test.data-v-47211af5 {
+	text-align: center;
+	height: 80rpx;
+	line-height: 80rpx;
+
+	font-size: 32rpx;
+	color: #D9E1FB;
+}
+.photo_left.data-v-47211af5 {
+	height: 210rpx;
+	padding-top: 30rpx;
+	float: left;
+	background: #262A56;
+	width: 46%;
+	margin: 0 2%;
+	position: relative;
+}
+.photo_left .upload_img.data-v-47211af5 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	    -ms-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+}
+.photo_rigth.data-v-47211af5 {
+	padding-top: 30rpx;
+	height: 210rpx;
+	width: 46%;
+	margin: 0 2%;
+	float: left;
+	background: #262A56;
+	position: relative;
+}
+.photo_rigth .upload_img.data-v-47211af5 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	    -ms-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+}
+.photo button.data-v-47211af5 {
+	height: 60rpx;
+	width: 100%;
+	line-height: 60rpx;
+	font-size: 28rpx;
+	background: #54D2FD;
+	color: #262A56;
+	position: absolute;
+	bottom: -60rpx;
+}
+.confirm.data-v-47211af5 {
+	margin: 40rpx 20rpx;
+	color: #fff;
+	background: #54D2FD;
+}
+.show.data-v-47211af5 {
+	color: #B8C6E0;
+	text-align: center;
+	margin-top: 50rpx;
+}
+

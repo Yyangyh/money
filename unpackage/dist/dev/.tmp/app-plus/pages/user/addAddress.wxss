@@ -1,0 +1,29 @@
+
+.content.data-v-fe4630ac{
+	color: #B8C6E0;
+	font-size: 32rpx;
+	overflow: hidden;
+}
+.form_ipt.data-v-fe4630ac{
+	margin-bottom: 2rpx;
+}
+.detailed_add.data-v-fe4630ac{
+	color: #E3E9FF;
+	background: #3B4374;
+	height: 150rpx;
+	padding-left: 20rpx;
+	margin-bottom: 2rpx;
+}
+.detailed_add text.data-v-fe4630ac{
+	display: inline-block;
+	margin: 20rpx 0;
+}
+.uni-list-cell-db.data-v-fe4630ac{
+	width: 80%;
+}
+button.data-v-fe4630ac {
+	margin: 60rpx 5%;
+	background: #4BD4FE;
+	color: #fff;
+}
+

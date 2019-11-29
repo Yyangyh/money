@@ -1,0 +1,184 @@
+
+.content.data-v-4ef88143 {
+	color: #B8C6E0;
+	background: #2E3264;
+	overflow: hidden;
+	padding: 0 20rpx;
+	padding-bottom: 100rpx;
+}
+.plan view.data-v-4ef88143 {
+	margin: 40rpx 10%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background: #2E3264;
+	color: #35BFFD;
+	/* padding: 2rpx; */
+	border: 2rpx solid #35BFFD;
+}
+.plan view text.data-v-4ef88143 {
+	font-size: 36rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	    -ms-flex-positive: 1;
+	        flex-grow: 1;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+	display: inline-block;
+}
+.show.data-v-4ef88143 {
+	color: #fff;
+	background: #35BFFD;
+	/* border: 2rpx solid #35BFFD; */
+}
+.loan.data-v-4ef88143 {
+	/* overflow: hidden; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.loan .test.data-v-4ef88143 {
+	text-align: center;
+	width: 25%;
+	background: #3B4374;
+	border-radius: 10rpx;
+	height: 200rpx;
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	    -ms-flex-positive: 1;
+	        flex-grow: 1;
+	margin-right: 20rpx;
+	padding-top: 60rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.loan view.data-v-4ef88143:nth-of-type(4) {
+	margin-right: 0rpx;
+}
+.loan view>view.data-v-4ef88143 {
+	height: 40rpx;
+	line-height: 40rpx;
+}
+.loan view .loan_test1.data-v-4ef88143 {
+	font-size: 20rpx;
+}
+.loan view .loan_test2.data-v-4ef88143 {
+	font-size: 30rpx;
+}
+.loan view .loan_test3.data-v-4ef88143{
+	font-size: 26rpx;
+}
+.repayment.data-v-4ef88143 {
+	margin-top: 40rpx;
+	overflow: hidden;
+	background: #3B4374;
+	padding: 0 15rpx;
+	border-radius: 10rpx;
+}
+.repayment text.data-v-4ef88143 {
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.repayment .repayment_left.data-v-4ef88143 {
+	float: left;
+}
+.repayment .repayment_right.data-v-4ef88143 {
+	float: right;
+	color: #35BFFD;
+}
+.repayment .repayment_left  .color.data-v-4ef88143 {
+	color: #35BFFD;
+}
+.speed.data-v-4ef88143 {
+	margin-top: 40rpx;
+}
+.repayment_plan.data-v-4ef88143 {
+	margin-bottom: 30rpx;
+	font-size: 32rpx;
+}
+.repayment_speed.data-v-4ef88143 {
+	margin-bottom: 30rpx;
+	font-size: 28rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack:justify;
+	-webkit-justify-content:space-between;
+	    -ms-flex-pack:justify;
+	        justify-content:space-between;
+}
+.repayment_speed progress.data-v-4ef88143 {
+	/* flex-grow: 2; */
+	min-width: 45%;
+	width: auto;
+	margin: 0 20rpx;
+}
+.total.data-v-4ef88143{
+	width: 30%;
+	font-size: 26rpx;
+}
+.no_time.data-v-4ef88143 {
+	text-align: center;
+	margin-top: 300rpx;
+	font-size: 32rpx;
+}
+.no_time image.data-v-4ef88143 {
+	width: 200rpx;
+	height: 170rpx;
+}
+.record.data-v-4ef88143{
+	width: 80%;
+	height: 60rpx;
+	line-height: 60rpx;
+	border-radius: 30rpx;
+	font-size: 28rpx;
+	text-align: center;
+	margin: 0 10%;
+	background: #35bffd;
+	color: #fff;
+	margin-bottom: 20rpx;
+}
+.plan_list.data-v-4ef88143 {
+	width: 100%;
+}
+.plan_list .plan_box.data-v-4ef88143 {
+	width: 100%;
+	padding: 10rpx 20rpx;
+	font-size: 32rpx;
+	height: 290rpx;
+	background: #3B4374;
+	position: relative;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	border-radius: 10rpx;
+	margin-bottom: 20rpx;
+}
+.plan_list .plan_box .plan_test.data-v-4ef88143 {
+	margin-bottom: 10rpx;
+}
+.plan_box .bottom.data-v-4ef88143 {
+	width: 95%;
+	overflow: hidden;
+	position: absolute;
+	bottom: 20rpx;
+}
+.plan_box .bottom view.data-v-4ef88143 {
+	background: #35bffd;
+	color: #fff;
+	text-align: center;
+	width: 150rpx;
+	border-radius: 10rpx;
+	padding: 10rpx 0;
+}
+.plan_box .bottom .left.data-v-4ef88143 {
+	float: left;
+	margin-right: 20rpx;
+}
+.plan_box .bottom .right.data-v-4ef88143 {
+	float: right;
+}
+

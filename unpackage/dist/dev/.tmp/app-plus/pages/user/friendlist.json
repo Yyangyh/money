@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "好友列表",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "成员",
+        "fontSize": "14px",
+        "color": "#FFf"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

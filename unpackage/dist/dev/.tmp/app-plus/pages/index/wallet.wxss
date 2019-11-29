@@ -1,0 +1,56 @@
+
+.content.data-v-2c6d6993{
+	color: #B8C6E0;
+	background: #2E3264;
+	/* height: 100%; */
+	overflow: hidden;
+	padding: 0 20rpx;
+	padding-top: 30rpx;
+	padding-bottom: 100rpx;
+}
+.account.data-v-2c6d6993{
+	font-size: 32rpx;
+	background: #3B4374;
+	padding: 40rpx 20rpx;
+	position: relative;
+	margin-bottom: 30rpx;
+}
+.first.data-v-2c6d6993{
+	overflow: hidden;
+}
+.first view.data-v-2c6d6993:nth-of-type(1){
+	float: left;
+}
+.first view.data-v-2c6d6993:nth-of-type(2){
+	float: right;
+	color: #35C1FD;
+	font-size: 32rpx;
+}
+.second.data-v-2c6d6993{
+	margin: 20rpx 0;
+	color: #fff;
+}
+.second text.data-v-2c6d6993{
+	font-size: 80rpx;
+}
+.frozen.data-v-2c6d6993{
+	margin-bottom: 20rpx;
+}
+.frozen text.data-v-2c6d6993{
+	color: #35C1FD;
+}
+.available text.data-v-2c6d6993{
+	color: #35C1FD;
+}
+.account button.data-v-2c6d6993{
+	position: absolute;
+	right: 20rpx;
+	bottom: 20rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	width: 130rpx;
+	color: #fff;
+	background: #35C1FD;
+	font-size: 32rpx;
+}
+

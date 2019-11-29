@@ -1,0 +1,43 @@
+
+.plan_box.data-v-589f6db0 {
+		width: 100%;
+		padding: 10rpx 20rpx;
+		font-size: 32rpx;
+		height: 290rpx;
+		background: #3B4374;
+		position: relative;
+		-webkit-box-sizing: border-box;
+		        box-sizing: border-box;
+		border-radius: 10rpx;
+		color: #B8C6E0;
+		margin-bottom: 20rpx;
+}
+.plan_box .plan_test.data-v-589f6db0 {
+		margin-bottom: 10rpx;
+}
+.plan_box .bottom.data-v-589f6db0 {
+		width: 95%;
+		overflow: hidden;
+		position: absolute;
+		bottom: 20rpx;
+}
+.plan_box .bottom view.data-v-589f6db0 {
+		background: #35bffd;
+		color: #fff;
+		text-align: center;
+		width: 150rpx;
+		border-radius: 10rpx;
+		padding: 10rpx 0;
+}
+.plan_box .bottom .left.data-v-589f6db0 {
+		float: left;
+		margin-right: 20rpx;
+}
+.plan_box .bottom .right.data-v-589f6db0 {
+		float: right;
+}
+image.data-v-589f6db0{
+		width: 100%;
+		height: 100%;
+}
+

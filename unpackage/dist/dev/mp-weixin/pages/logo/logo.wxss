@@ -1,0 +1,25 @@
+
+.page.data-v-416c5ffb{
+	/* height: 100%; */
+}
+.content.data-v-416c5ffb{
+	background: rgb(44,61,122);
+	height: 100%;
+}
+.logo.data-v-416c5ffb{
+	text-align: center;
+}
+.logo image.data-v-416c5ffb{
+	width: 200rpx;
+	margin-top: 120rpx;
+}
+.form_ipt.data-v-416c5ffb{
+	margin-bottom: 20rpx;
+}
+.form_btn.data-v-416c5ffb{
+	margin-bottom: 30rpx;
+}
+.btn.data-v-416c5ffb{
+	margin-top: 80rpx;
+}
+
